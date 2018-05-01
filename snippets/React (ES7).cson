@@ -100,26 +100,24 @@
 
 
       export default class ${1:MyComponent} extends Component {
-
-        static propTypes = {
-          ${2}
-        };
-
         constructor(props) {
           super(props);
 
           this.state = {
-            ${3}
+            ${2}
           };
         }
 
         render() {
           return (
-            ${4:<div>MyComponent</div>}
+            ${3:<div>MyComponent</div>}
           );
         }
-
       }
+
+      ${1:MyComponent}.propTypes = {
+        ${4}
+      };
     """
 
   'React ES7 Redux Container':
