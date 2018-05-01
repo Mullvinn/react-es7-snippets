@@ -45,7 +45,7 @@
       }
     """
 
-  'React ES7 Component':
+  'React ES7 Component with PropType':
     'prefix': 'rcp'
     'body': """
       import React, { Component } from 'react';
@@ -92,7 +92,7 @@
       }
     """
 
-  'React ES7 Component with Constructor':
+  'React ES7 Component with Constructor and PropType':
     'prefix': 'rccp'
     'body': """
       import React, { Component } from 'react';
@@ -388,7 +388,7 @@
     """
 
   'React ES6 bind method to this':
-    'prefix': 'rbm',
+    'prefix': 'bnd',
     'body': """
       this.${1} = this.${1}.bind(this);
     """
