@@ -1,3 +1,3 @@
-# react-es7-snippets package
+# react-easy-snippets package
 
-React ES7 snippets for atom
+React Easy snippets for atom with ES6 and ES7
