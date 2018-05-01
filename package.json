@@ -1,5 +1,5 @@
 {
-  "name": "react-easy-snippets",
+  "name": "react-esx-snippets",
   "version": "0.1.0",
   "description": "React Easy snippets for atom with ES6 and ES7",
   "keywords": [
@@ -9,7 +9,7 @@
     "babel",
     "snippets"
   ],
-  "repository": "https://github.com/Mullvinn/react-easy-snippets",
+  "repository": "https://github.com/Mullvinn/react-esx-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
